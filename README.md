@@ -1,6 +1,8 @@
 # skill-test-skill
 
-An Agent Skill that tests and scores any other Agent Skill against the official [anthropics/skills](https://github.com/anthropics/skills) specification.
+An Agent Skill that tests and scores any other Agent Skill against the official [anthropics/skills](https://github.com/anthropics/skills) specification.  
+  
+🦞 clawhub here: https://clawhub.ai/youngfreefjs/skill-test-skill
 
 ## What It Does
 
